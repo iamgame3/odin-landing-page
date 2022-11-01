@@ -40,8 +40,8 @@ ul {
 
 .top-container {
     padding-bottom: 150px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 body {
@@ -183,4 +183,12 @@ body {
     padding-bottom: 4px;
     padding-left: 16px;
     padding-right: 16px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
