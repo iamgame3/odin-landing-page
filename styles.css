@@ -144,3 +144,43 @@ body {
     align-self: end;
     margin-right: 64px;
 }
+
+.call-to-action {
+    display: flex;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    background-color: #3882F6;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call-text,
+.call-header,
+.call-button {
+    color: white;
+}
+
+.call-header {
+    font-size: 24px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.call-text {
+    font-size: 18px;
+}
+
+.call-button {
+    border: 2px solid white;
+    border-radius: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
